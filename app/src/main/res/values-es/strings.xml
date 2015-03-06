@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Invasion</string>
+    <string name="btn_about">Acerca de</string>
+    <string name="btn_donation">Donar</string>
+    <string name="btn_play">Jugar</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="lbl_level">Nivel</string>
+    <string name="lbl_life">Vidas</string>
+    <string name="lbl_score">Puntaje</string>
+    <string name="title_activity_about">acerca de</string>
+    <string name="title_activity_donation">donar</string>
+    <string name="title_activity_play">jugar</string>
+    <string name="txt_title">Invasión Alien</string>
+    <string name="action_settings">Configuración</string>
+    <string name="title_activity_close">Cerrar</string>
+    <string name="btn_close">Cerrar</string>
+</resources>
